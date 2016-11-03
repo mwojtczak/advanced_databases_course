@@ -1,0 +1,4 @@
+dbname: postgres
+user: postgres
+password: x
+host: localhost

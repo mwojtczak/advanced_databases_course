@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2011-01-11" key="journals/acta/Saxena96">
+<author>Sanjeev Saxena</author>
+<title>Parallel Integer Sorting and Simulation Amongst CRCW Models.</title>
+<pages>607-619</pages>
+<year>1996</year>
+<volume>33</volume>
+<journal>Acta Inf.</journal>
+<number>7</number>
+<url>db/journals/acta/acta33.html#Saxena96</url>
+<ee>http://dx.doi.org/10.1007/BF03036466</ee>
+</article>
+
+<article mdate="2016-07-13" key="journals/acta/Simon83">
+<author>Hans Ulrich Simon</author>
+<title>Pattern Matching in Trees and Nets über alles öÜßÄążęćźńłó.</title>
+<pages>227-248</pages>
+<year>1983</year>
+<volume>20</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta20.html#Simon83</url>
+<ee>http://dx.doi.org/10.1007/BF01257084</ee>
+</article>
+
+
+<article mdate="2013-11-28" key="journals/acta/Schonhage77"> 
+<author>Arnold Sch&ouml;nhage</author>
+<title>Schnelle Multiplikation von Polynomen &uuml;ber K&ouml;rpern der Charakteristik 2.</title>
+<journal>Acta Inf.</journal>
+<volume>7</volume> 
+<year>1977</year> 
+<pages>395-398</pages>
+<url>db/journals/acta/acta7.html#Schonhage77</url>
+<ee>http://dx.doi.org/10.1007/BF00289470</ee>
+</article>
+
+<article mdate="2011-07-08" key="journals/ipl/BarringtonC89">
+<author>David A. Mix Barrington</author>
+<author>James C. Corbett</author>
+<title>On the Relative Complexity of Some Languages in NC.</title>
+<pages>251-256</pages>
+<year>1989</year>
+<volume>32</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>5</number>
+<url>db/journals/ipl/ipl32.html#BarringtonC89</url>
+<ee>http://dx.doi.org/10.1016/0020-0190(89)90052-5</ee>
+</article>
+
+<article mdate="2011-07-07" key="journals/ipl/Rotem75">
+<author>Doron Rotem</author>
+<title>On a Correspondence Between Binary Trees and a Certain Type of Permutation.</title>
+<pages>58-61</pages>
+<year>1975</year>
+<volume>4</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3</number>
+<url>db/journals/ipl/ipl4.html#Rotem75</url>
+<ee>http://dx.doi.org/10.1016/0020-0190(75)90002-2</ee>
+</article>
+
+<inproceedings mdate="2016-06-06" key="conf/ACMdis/JonesDT0SONB16">
+<author>Brennan Jones</author>
+<author>Kody R. Dillman</author>
+<author>Richard Tang</author>
+<author>Anthony Tang 0001</author>
+<author>Ehud Sharlin</author>
+<author>Lora Oehlberg</author>
+<author>Carman Neustaedter</author>
+<author>Scott Bateman</author>
+<title>Elevating Communication, Collaboration, and Shared Experiences in Mobile Video through Drones.</title>
+<pages>1123-1135</pages>
+<year>2016</year>
+<booktitle>Conference on Designing Interactive Systems</booktitle>
+<ee>http://doi.acm.org/10.1145/2901790.2901847</ee>
+<crossref>conf/ACMdis/2016</crossref>
+<url>db/conf/ACMdis/ACMdis2016.html#JonesDT0SONB16</url>
+</inproceedings>
+
+<inproceedings mdate="2014-06-24" key="conf/ACMdis/Hincapie-RamosGI14">
+<author>Juan David Hincapi&eacute;-Ramos</author>
+<author>Xiang Guo</author>
+<author>Pourang Irani</author>
+<title>The consumed endurance workbench: a tool to assess arm fatigue during mid-air interactions.</title>
+<pages>109-112</pages>
+<year>2014</year>
+<booktitle>Conference on Designing Interactive Systems (Companion Volume)</booktitle>
+<ee>http://doi.acm.org/10.1145/2598784.2602795</ee>
+<crossref>conf/ACMdis/2014c</crossref>
+<url>db/conf/ACMdis/ACMdis2014c.html#Hincapie-RamosGI14</url>
+</inproceedings>
+
+<phdthesis mdate="2016-09-01" key="phd/ethos/Marques08">
+<author>Alda Sofia Pires de Dias Marques</author>
+<title>The use of computer aided lung sound analysis to characterise adventitious lung sounds : a potential outcome measure for respiratory therapy.</title>
+<year>2008</year>
+<school>University of Southampton, UK</school>
+<ee>http://eprints.soton.ac.uk/65639/</ee>
+<ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.494973</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+
+<phdthesis mdate="2016-10-10" key="phd/ethos/Kopec82">
+<author>Danny Kopec</author>
+<title>Human and machine representations of knowledge.</title>
+<year>1982</year>
+<school>University of Edinburgh, UK</school>
+<ee>http://hdl.handle.net/1842/8122</ee>
+<ee>http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.330600</ee>
+<note type="source">British Library, EThOS</note>
+</phdthesis>
+
+<mastersthesis mdate="2002-01-03" key="phd/Schulte92">
+<author>Christian Schulte</author>
+<title>Entwurf und Implementierung eines &uuml;bersetzenden Systems f&uuml;r das intuitionistische logische Programmieren auf der Warren Abstract Machine.</title>
+<year>1991</year>
+<school>Universit&auml;t Karlsruhe, Institut f&uuml;r Logik, Komplexit&auml;t und Deduktionssysteme</school>
+</mastersthesis>
+
+</dblp>
